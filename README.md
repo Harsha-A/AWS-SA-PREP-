@@ -1,4 +1,5 @@
-# AWS-SA-PREP-
+# AWS-SA-PREP-GUIDE
+
 AWS solutions architect exam prep guide and important links
 
 # AWS — Difference between Internet Gateway and NAT Gateway 
