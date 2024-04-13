@@ -1,4 +1,7 @@
 # AWS-SA-PREP-GUIDE
+https://blog.awsfundamentals.com/solutions-architect-associate-exam-cheat-sheet#heading-exam-guide 
+
+
 
 AWS solutions architect exam prep guide and important links
 
