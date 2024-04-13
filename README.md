@@ -13,3 +13,6 @@ https://medium.com/awesome-cloud/aws-amazon-eks-vs-amazon-ecs-comparison-differe
 
 # AWS — Difference between VPC Peering and Transit Gateway
 https://medium.com/awesome-cloud/aws-difference-between-vpc-peering-and-transit-gateway-comparison-aws-vpc-peering-vs-aws-transit-gateway-3640a464be2d 
+
+# The Ultimate Guide to AWS VPC Endpoints
+https://www.learnaws.org/2023/09/05/aws-vpc-endpoints/ 
